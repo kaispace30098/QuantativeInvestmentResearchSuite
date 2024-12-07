@@ -1,2 +1,11 @@
+# Ignore the .env folder
+.env/
+
+# Ignore the .myenv file
 .myenv
+
+# Ignore Python bytecode files
+src/__pycache__/
+
+# Ignore all .txt files
 kais_notes.txt
